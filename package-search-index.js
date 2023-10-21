@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"dev.voroby.springframework.telegram"},{"l":"dev.voroby.springframework.telegram.client"},{"l":"dev.voroby.springframework.telegram.client.updates"},{"l":"dev.voroby.springframework.telegram.exception"},{"l":"dev.voroby.springframework.telegram.properties"}];updateSearchResults();

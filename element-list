@@ -1,0 +1,5 @@
+dev.voroby.springframework.telegram
+dev.voroby.springframework.telegram.client
+dev.voroby.springframework.telegram.client.updates
+dev.voroby.springframework.telegram.exception
+dev.voroby.springframework.telegram.properties
